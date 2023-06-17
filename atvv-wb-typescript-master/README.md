@@ -2,7 +2,7 @@
 Lista 5
 
 1 - Pedro Fernandes Seraggi
-2 - João Ped
+2 - João Pedro Lopes Rezende
 
 
 -- Como rodar a aplicação --
