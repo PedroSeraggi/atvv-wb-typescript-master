@@ -1,7 +1,7 @@
 # atvv-wb-typescript
 Lista 5
 
-1 - Pedro Fernandes Seraggi
+1 - Pedro Fernandes Seraggi <br>
 2 - João Pedro Lopes Rezende
 
 
